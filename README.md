@@ -23,7 +23,7 @@ Example
     source ~/.jenkins_venv/bin/activate
     ./sync_jenkins_config.py --url https://jenkins.myservice.com --username mattusername --conf-dir confs
 
-    Password for matt1451: 
+    Password for mattusername: 
     Processing job 'build-app-deps'...
     ...
     Done!
